@@ -8,6 +8,7 @@ import AlbumPhoto from "./pages/AlbumPhoto";
 import AlbumSearch from "./pages/AlbumSearch";
 import NotFound from "./pages/NotFound";
 
+
 function App() {
   return (
     <div className="App">
